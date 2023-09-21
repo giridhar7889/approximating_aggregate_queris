@@ -1,0 +1,16 @@
+what do you mean when you told us to check if the url should be crawled or not
+can i start crawling from the manual link?
+do every page in the domain has a different robots.txt file?
+how to overcome the pagerank bias?
+Please note that this is a simplified example, and ideal random walk algorithms 
+can involve more complex strategies and heuristics to achieve a truly uniform distribution of web pages.
+
+can i design my own heuristics to achievea truly uniform distribution of web pages
+can it be very simple or do you expect us to design a complex heuristic to acheive this
+
+so i have a question about designing my own heuritic for sampling truly uniform distribution of web pages
+can it be very simple or do you expect us to design a complex heuristic to acheive this
+
+do you want our heuristic to be quite effiecnt as well 
+
+how can i measure if my sampled urls are random enough

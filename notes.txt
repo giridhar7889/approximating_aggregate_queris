@@ -1,0 +1,16 @@
+. It will then be used
+to estimate the quantities in question. The fraction
+of sampled web pages that satisfy a predicate is an
+estimate for the fraction of all web pages that would
+satisfy the predicate
+
+In order to produce a uniformly distributed sample
+of web pages without an index of all web pages, we
+will use ideas from the theory of random walks
+
+It
+is well known that random walks on regular 1 undirected graphs can provide a close to uniformly distributed sample of nodes. Unfortunately the web is
+neither undirected, nor regular. We present a method
+to simultaneously walk the web and a dynamically generated graph G. The graph G has a node for each web
+page discovered on the web, but is regular and undirected. As the walk progresses it produces a close to
+uniformly distributed sample of web pages.
